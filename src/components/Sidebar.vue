@@ -29,7 +29,7 @@ export default {
   name: "sidebar",
   data() {
     return {
-      links: [
+      links: [      
         ["mdi-inbox-arrow-down", "Inbox"],
         ["mdi-send", "Send"],
         ["mdi-delete", "Trash"],
